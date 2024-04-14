@@ -1,0 +1,11 @@
+.headbtn{
+      width: 80px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: crimson;
+    }
+
+    /* Q ki hum module ka use kar rahe hqain isliye isko module
+     by default export kar dega 
+     aur export file ka name hum apne man se kuch bhi rakh sakte hain 
+     maine headstyke  rakha hai  */
